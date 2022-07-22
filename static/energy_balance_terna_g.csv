@@ -1,0 +1,49 @@
+Energy Source,Year,Energy Balance [GWh]
+Geothermal,2017,5784.43
+Geothermal,2018,5707.88
+Geothermal,2019,5688.09
+Geothermal,2020,5648.06
+Geothermal,2021,5526.8
+Geothermal,2022,1221.33
+Hydro,2017,37067.81
+Hydro,2018,49503.37
+Hydro,2019,47182.22
+Hydro,2020,48534.06
+Hydro,2021,45889.65
+Hydro,2022,5250.89
+Net Foreign Exchange,2017,37760.64
+Net Foreign Exchange,2018,43898.7
+Net Foreign Exchange,2019,38141.2
+Net Foreign Exchange,2020,32202.19
+Net Foreign Exchange,2021,42788.25
+Net Foreign Exchange,2022,8445.33
+Photovoltaic,2017,19127.47
+Photovoltaic,2018,17127.55
+Photovoltaic,2019,18601.13
+Photovoltaic,2020,19815.2
+Photovoltaic,2021,20254.27
+Photovoltaic,2022,3541.12
+Pumping-consumption,2017,-2438.86
+Pumping-consumption,2018,-2227.31
+Pumping-consumption,2019,-2411.41
+Pumping-consumption,2020,-2552.9900000000002
+Pumping-consumption,2021,-2824.88
+Pumping-consumption,2022,-579.16
+Self-consumption,2017,28222.662
+Self-consumption,2018,29122.885
+Self-consumption,2019,29644.637
+Self-consumption,2020,28464.045
+Self-consumption,2021,28623.844
+Self-consumption,2022,6404.07
+Thermal,2017,177497.3
+Thermal,2018,160822.73
+Thermal,2019,162797.81
+Thermal,2020,150574.19
+Thermal,2021,157224.48
+Thermal,2022,40463.45
+Wind,2017,17565.23
+Wind,2018,17556.41
+Wind,2019,20033.96
+Wind,2020,18608.28
+Wind,2021,20613.7
+Wind,2022,6113.33
