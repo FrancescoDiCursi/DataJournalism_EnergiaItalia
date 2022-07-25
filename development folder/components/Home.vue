@@ -174,7 +174,7 @@ export default {
             </li>
             <li>
               <b-button class="idx_els" @click="handle_index('third_section')"
-                >Come arriva il gas in italia</b-button
+                >Come arriva il gas in Italia</b-button
               >
             </li>
             <li>
@@ -368,16 +368,16 @@ export default {
             </div>
 
             <div class="body_section body_section_center">
-              Come si può vedere dal grafico, il mix energetico italiano nel
+              Come si può vedere dal grafico, il mix energetico Italiano nel
               2020 è stato composto da un 77% di combustibili fossili, in
-              particolare dal gas naturale. L’italia purtroppo non ha grandi
-              riserve, secondo i dati del Mise nel sottosuolo italiano ci sono
+              particolare dal gas naturale. L’Italia purtroppo non ha grandi
+              riserve, secondo i dati del Mise nel sottosuolo Italiano ci sono
               solo 39 miliardi di metri cubi di gas che si possono estrarre.
               Sembra una gran quantità ma annualmente consumiamo all’incirca 70
               miliardi di metri cubi di gas, questo vuol dire che se
               consumassimo tutte le nostre riserve in un anno copriremmo solo il
               55% del fabbisogno nazionale. Per chi voglia approfondire i siti
-              di estrazione che ci sono in italia consigliamo di esplorare i
+              di estrazione che ci sono in Italia consigliamo di esplorare i
               dati del Mise nella
               <b-button @click="go_to_map" id="gotomap_btn"
                 >seguente sezione</b-button
@@ -395,7 +395,7 @@ export default {
               In questo articolo ci concentreremo solo sul gas, essendo il
               rigassificatore il nostro principale tema. Ma non va dimenticato
               che lo stesso problema di dipendenza esiste anche per materie
-              prime come petrolio e carbone, l’italia è costretta a importarli
+              prime come petrolio e carbone, l’Italia è costretta a importarli
               dall’estero, in particolare dalla Russia.
             </div>
             <br /><br />
@@ -404,15 +404,15 @@ export default {
           <b-container>
             <div class="section">
               <h1 class="title_section" id="third_section" data-aos="fade-up">
-                COME ARRIVA IL GAS IN ITALIA
+                COME ARRIVA IL GAS IN Italia
               </h1>
 
               <div class="body_section_center" data-aos="fade-up">
-                L'italia importa il gas da vari paesi extra UE.
+                L'Italia importa il gas da vari paesi extra UE.
                 <p>
                   Escludendo gli Stati Uniti (2,6%) e la Norvegia (11,1%) tutti
                   gli altri paesi hanno una situazione politica molto delicata.
-                  Il problema oggi è che per via del conflitto ucraino, l'italia
+                  Il problema oggi è che per via del conflitto ucraino, l'Italia
                   si è schierata apertamente contro la federazione russa che da
                   sola ci rifornisce di quasi il 43 % del nostro fabbrisogno di
                   gas. Ci troviamo in uno stato di emergenza e non è solo un
@@ -549,7 +549,7 @@ export default {
                   Il Green Stream
                 </h1>
                 <div class="body_section" data-aos="fade-left">
-                  Si chiama così il gasdotto sottomarino che collega l’italia
+                  Si chiama così il gasdotto sottomarino che collega l’Italia
                   alla Libia, costruito durante il regime del dittatore
                   Gheddafi. La guerra civile attuale e la mancanza di un
                   referente autorevole crea non pochi problemi all’Italia che al
@@ -637,7 +637,7 @@ export default {
                   gassoso il gas, infatti era stato trasformato in liquido
                   perchè occupava meno spazio. Gli impianti di rigassificazione
                   possono essere fissi o galleggianti(FSRU). Gli impianti di
-                  rigassificazione in italia sono tre: a Livorno, a La spezia e
+                  rigassificazione in Italia sono tre: a Livorno, a La spezia e
                   Porto Viro.
                 </div>
               </b-col>
@@ -771,7 +771,7 @@ export default {
 
           <b-container>
             <div class="section" id="fourth_section" data-aos="fade-up">
-              <h1 class="title_section">
+              <h1 class="title_section" style="text-align:center">
                 Ma perchè tanta ostruzione al rigassificatore di Piombino?
               </h1>
               <div class="body_section body_section_center">
@@ -794,7 +794,7 @@ export default {
                 rimasto sono solo 928,4 ettari di terra e 2015 ettari di mare da
                 bonificare, quello che i più conoscono come zona di interesse
                 nazionale (<a
-                  href="https://www.affaritaliani.it/cronache/piombino-tra-inquinamento-rifiuti-e-rischi-per-la-salute-serve-bonificare-757523.html?refresh_ce"
+                  href="https://www.affarItaliani.it/cronache/piombino-tra-inquinamento-rifiuti-e-rischi-per-la-salute-serve-bonificare-757523.html?refresh_ce"
                   >SIN</a
                 >). Oltre al decadente impianto siderurgico, nella zona
                 periferica della città sorge anche una grossa discarica che i
@@ -945,7 +945,7 @@ export default {
                 seguito le parole della Meloni:
                 <blockquote>
                   <a
-                    href="https://greenreport.it/leditoriale/il-manifesto-di-giorgia-meloni-e-dei-fratelli-ditalia-contro-la-transizione-verde/"
+                    href="https://greenreport.it/leditoriale/il-manifesto-di-giorgia-meloni-e-dei-fratelli-dItalia-contro-la-transizione-verde/"
                   >
                     «[...] alla cieca ideologia green che tutto blocca e tutto
                     impedisce. »
@@ -958,7 +958,7 @@ export default {
                 definisce su quali settori bisogna puntare per poter ridurre i
                 cambiamenti climatici. Il 7 luglio del 2022 con un
                 <a
-                  href="https://www.ilfattoquotidiano.it/2022/07/06/tassonomia-verde-il-parlamento-ue-dice-si-allinserimento-di-gas-e-nucleare-con-i-voti-del-centrodestra-italiano-pd-e-m5s-per-il-rigetto/6651771/"
+                  href="https://www.ilfattoquotidiano.it/2022/07/06/tassonomia-verde-il-parlamento-ue-dice-si-allinserimento-di-gas-e-nucleare-con-i-voti-del-centrodestra-Italiano-pd-e-m5s-per-il-rigetto/6651771/"
                   >voto finale</a
                 >
                 sono stati inclusi nella tassonomia verde anche il gas e il
@@ -967,7 +967,7 @@ export default {
                 si osservano il PD e M5S. In Europa quindi, PD e M5S hanno
                 votato contro gas e nucleare, mentre a favore sono stati FI,
                 FDI,LEGA e IV. Invece, quando si è trattato di votare per il
-                rigassificatore nel parlamento italiano solo FDI è andata contro
+                rigassificatore nel parlamento Italiano solo FDI è andata contro
                 il decreto.
               </div>
               <div class="plot_section">
@@ -1064,7 +1064,7 @@ export default {
                 civili che continuano tuttora. Nuovamente, la linea del governo
                 è stata quella di ritornare ad approvvigionarsi da questi paesi,
                 in particolare l’<a
-                  href="https://www.ilsole24ore.com/art/gas-dall-algeria-4-miliardi-metri-cubi-piu-all-italia-AE6TtrmB"
+                  href="https://www.ilsole24ore.com/art/gas-dall-algeria-4-miliardi-metri-cubi-piu-all-Italia-AE6TtrmB"
                   >Algeria</a
                 >. <br />Secondo noi il gas e le fonti fossili ci lasciano in
                 balìa della geopolitica, creando instabilità, diminuendo la
@@ -1099,7 +1099,7 @@ export default {
                   al gas come energia “ponte” per sostituire prima di tutto
                   altri combustibili fossili, come il carbone e il petrolio che
                   tuttavia hanno un impatto più alto per l’effetto serra. Il
-                  progetto italiano, seguendo il piano di sviluppo di Terna del
+                  progetto Italiano, seguendo il piano di sviluppo di Terna del
                   2021, prevede che per il 2030 siano installati impianti
                   rinnovabili per una produzione di 70 GWh. La criticità, come
                   visto dai dati Terna, è che dal 2013 in poi la crescita di
@@ -1132,7 +1132,7 @@ export default {
               </div>
 
               <div class="plot_section">
-                <b-img src="./static/imgs/roadmap.png" style=""></b-img>
+                <b-img src="./static/imgs/roadmap.png" style="width: 30rem;"></b-img>
               </div>
 
               <div class="body_section_center">
@@ -1164,7 +1164,7 @@ export default {
                 primo semestre del 2022 compromettendo la buona riuscita del
                 piano già ai suoi inizi.
                 <br />Ad esempio l’inflazione odierna che erode silenziosamente
-                i fondi del PNRR italiano; in secondo luogo abbiamo l’ aumento
+                i fondi del PNRR Italiano; in secondo luogo abbiamo l’ aumento
                 delle materie prime per l’efficientamento energetico come quelle
                 per la produzione di pannelli solari e turbine eoliche. Se il
                 preventivo crescerà troppo, molti privati rinunceranno a
@@ -1211,10 +1211,10 @@ export default {
                 <br />Certo, gli iter e le procedure sono importanti per creare
                 impianti di qualità ed evitare la speculazione che è presente
                 nel mondo delle rinnovabili. Ad esempio il maggior latitante
-                italiano Matteo Messina Denaro, nel 2017 secondo gli inquirenti
+                Italiano Matteo Messina Denaro, nel 2017 secondo gli inquirenti
                 stava investendo in parchi eolici siciliani. Come raccontato dal
                 <a
-                  href="https://web.facebook.com/dataroom.milena.gabanelli/videos/energie-rinnovabili-perch%C3%A9-litalia-%C3%A8-cos%C3%AC-indietro-tutti-gli-ostacoli-agli-impia/3220569398267321/?_rdc=1&_rdr"
+                  href="https://web.facebook.com/dataroom.milena.gabanelli/videos/energie-rinnovabili-perch%C3%A9-lItalia-%C3%A8-cos%C3%AC-indietro-tutti-gli-ostacoli-agli-impia/3220569398267321/?_rdc=1&_rdr"
                   >Presidente Della Regione Puglia</a
                 >, in molti chiedono autorizzazioni solo per poi rivenderle a
                 multinazionali che poi cercheranno di attuare i progetti non
@@ -1386,6 +1386,8 @@ p > .export-text {
 #idx_els {
   font-size: 5px;
 }
+
+
 
 @media screen and (max-width: 1300px) and (min-width: 900px) {
   #article_body {

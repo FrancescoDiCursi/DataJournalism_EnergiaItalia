@@ -51,16 +51,16 @@ export default {
         annotations: [
           {
             font: {
-              size: 20,
+              size: 12,
             },
             showarrow: false,
             text: "EU(27)",
-            x: 0.204,
+            x: 0.20,
             y: 0.5,
           },
           {
             font: {
-              size: 20,
+              size: 12,
             },
             showarrow: false,
             text: "Italy",
